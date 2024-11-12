@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @nyxxtra24(aka nikunj)
-- 👀 I’m interested in python and cybersecurity
-- 🌱 I’m currently learning Cybersecurity
-- 😎 I currently study at Silver Oak University
-- 🥼 My Enrollment Number is 200103071008
-- 🖥 I study in Computer Science & Engineering (Cyber Security)
-- 🛡 I work as an Intern at TechDefence Labs Solution Pvt. Ltd.
-- ⏭ My Project is UNVAPT
+I am Nixxtra, hello there, contact me if you want.
+
 
 
 <!---
